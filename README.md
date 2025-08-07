@@ -4,6 +4,7 @@
 - [ ] Capa de US inicial
 - [ ] Capa de IDF Inicial
 - [ ] Tablero de IPF
+- [ ] Cuenta de ASIMOV - Alfred
 - [ ] Tablero de Sisapp
 - [ ] MaC
 - [ ] Curso de no se que 
