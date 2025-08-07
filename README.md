@@ -11,7 +11,7 @@
 
 ## UEICEE
 - [ ] EDDY
-- [ ] Subir base a github
+- [x] Subir base a github
 - [ ] CRIN
 
 ## CEMIC
