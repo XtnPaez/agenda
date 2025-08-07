@@ -10,6 +10,7 @@
 
 ## UEICEE
 - [ ] EDDY
+- [ ] Subir base a github
 - [ ] CRIN
 
 ## CEMIC
@@ -21,4 +22,4 @@
 - [ ] Fiscalizar
 
 ## OTROS
-- [ ] PDF TO EXCEL para Nico Z
+- [x] PDF TO EXCEL para Nico Z
