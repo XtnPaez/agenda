@@ -21,6 +21,9 @@
 - [ ] Curso R
 - [ ] Slides
 
+## AAL
+- [ ] Actualizaciones
+
 ## PROPIOS
 - [ ] Flota
 - [ ] VDE
