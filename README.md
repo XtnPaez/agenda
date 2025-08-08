@@ -3,9 +3,12 @@
 ## SIEMPRO
 - [ ] Capa de US inicial
 - [ ] Capa de IDF Inicial
-- [ ] Tablero de IPF
-- [ ] Cuenta de ASIMOV - Alfred
-- [ ] Tablero de Sisapp
+- [ ] Mapa EFPI (PHP) -> Cuenta de ASIMOV - Alfred
+- [ ] visualizacion_geo (Mapa SIS)
+- [ ] Capa municipios
+- [ ] Capa BAHRA
+- [ ] Generar Plantillas QGIS
+- [ ] carga_monitoreo (Proyecto No Oficial)
 - [ ] MaC
 - [ ] Curso de no se que 
 
@@ -16,6 +19,7 @@
 
 ## CEMIC
 - [ ] Curso R
+- [ ] Slides
 
 ## PROPIOS
 - [ ] Flota
@@ -24,3 +28,10 @@
 
 ## OTROS
 - [x] PDF TO EXCEL para Nico Z
+
+## VER EL ASUNTO
+- [ ] velcel
+- [ ] supabase
+- [ ] tilwind
+- [ ] react
+- [ ] next.js
