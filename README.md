@@ -35,6 +35,7 @@
 - Subir el visualizador EFPI (versión beta) a Gitlab para que Alfredo pueda evaluar el stack necesario para ponerlo online según acordamos la reunión pasada por este tema
 
 ## SIEMPRO
+- [x] Actualizar mapa Gran Chaco
 - [ ] Capa de US inicial
 - [ ] Capa de IDF Inicial
 - [ ] Mapa EFPI (PHP) -> Cuenta de ASIMOV - Alfred
