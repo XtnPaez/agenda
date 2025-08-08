@@ -14,7 +14,7 @@
 
 ## UEICEE
 - [ ] EDDY
-- [x] Subir base a github
+- [x] Subir base a github => 6/8/25
 - [ ] CRIN
 
 ## CEMIC
@@ -27,7 +27,7 @@
 - [ ] Fiscalizar
 
 ## OTROS
-- [x] PDF TO EXCEL para Nico Z
+- [x] PDF TO EXCEL para Nico Z => 7/8/25
 
 ## VER EL ASUNTO
 - [ ] velcel
