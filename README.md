@@ -36,6 +36,7 @@
 
 ## SIEMPRO
 - [x] Actualizar mapa Gran Chaco
+- [x] Mapa de ruralidad
 - [ ] Capa de US inicial
 - [ ] Capa de IDF Inicial
 - [ ] Mapa EFPI (PHP) -> Cuenta de ASIMOV - Alfred
