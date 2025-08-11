@@ -41,7 +41,7 @@
 - [x] Capa de IDF Inicial
 - [x] Capa de salud
 - [x] Actualización mapa EFPI
-- [ ] Mapa EFPI (PHP) -> Cuenta de ASIMOV - Alfred
+- [x] Mapa EFPI (PHP) -> Cuenta de ASIMOV - Alfred
 - [ ] visualizacion_geo (Mapa SIS)
 - [ ] Capa municipios
 - [ ] Capa BAHRA
