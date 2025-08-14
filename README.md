@@ -14,13 +14,13 @@
 - [ ] Generar Plantillas QGIS
 - [ ] carga_monitoreo (Proyecto No Oficial)
 - [ ] MaC
-- [ ] Curso de no se que 
 
 ## UEICEE
 - [ ] EDDY
 - [x] Subir base a github => 6/8/25
 - [ ] Cargar el shape de corte de agosto, enviar el sql y mantener ID
-- [ ] CRIN
+- [x] CRIN Documento de proyecto
+- [x] CRIN Guía de desarrollo
 
 ## CEMIC
 - [ ] Curso R
