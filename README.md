@@ -9,8 +9,8 @@
 - [x] Actualización mapa EFPI
 - [x] Mapa EFPI (PHP) -> Cuenta de ASIMOV - Alfred
 - [x] Permisos para Pablo Gutierrez
-- [ ] Montar Geoserver local
-- [ ] Conectar Geoserver con QGis
+- [x] Montar Geoserver local
+- [x] Conectar Geoserver con QGis
 - [ ] Revisar, ordenar y estandarizar las capas
 - [ ] Crear el catálogo de capas del SIEMPRO
 - [ ] visualizacion_geo (Mapa SIS)
