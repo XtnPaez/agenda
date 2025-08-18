@@ -8,7 +8,9 @@
 - [x] Capa de salud
 - [x] Actualización mapa EFPI
 - [x] Mapa EFPI (PHP) -> Cuenta de ASIMOV - Alfred
+- [ ] Geoserver local? Mapserver local?
 - [ ] visualizacion_geo (Mapa SIS)
+- [ ] Catálogo de capas
 - [ ] Capa municipios
 - [ ] Capa BAHRA
 - [ ] Generar Plantillas QGIS
