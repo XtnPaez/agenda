@@ -8,6 +8,7 @@
 - [x] Capa de salud
 - [x] Actualización mapa EFPI
 - [x] Mapa EFPI (PHP) -> Cuenta de ASIMOV - Alfred
+- [ ] Permisos para Pablo Gutierrez
 - [ ] Montar Geoserver local
 - [ ] Conectar Geoserver con QGis
 - [ ] Revisar, ordenar y estandarizar las capas
