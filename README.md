@@ -8,7 +8,10 @@
 - [x] Capa de salud
 - [x] Actualización mapa EFPI
 - [x] Mapa EFPI (PHP) -> Cuenta de ASIMOV - Alfred
-- [ ] Geoserver local? Mapserver local?
+- [ ] Montar Geoserver local
+- [ ] Conectar Geoserver con QGis
+- [ ] Revisar, ordenar y estandarizar las capas
+- [ ] Crear el catálogo de capas del SIEMPRO
 - [ ] visualizacion_geo (Mapa SIS)
 - [ ] Catálogo de capas
 - [ ] Capa municipios
@@ -23,6 +26,7 @@
 - [ ] Cargar el shape de corte de agosto, enviar el sql y mantener ID
 - [x] CRIN Documento de proyecto
 - [x] CRIN Guía de desarrollo
+- [ ] QR para aulas
 
 ## CEMIC
 - [ ] Curso R
