@@ -22,12 +22,12 @@
 - [ ] MaC
 
 ## UEICEE
+- [ ] Cargar el shape de corte de agosto, enviar el sql y mantener ID
 - [ ] EDDY
 - [x] Subir base a github => 6/8/25
-- [ ] Cargar el shape de corte de agosto, enviar el sql y mantener ID
+- [ ] QR para aulas
 - [x] CRIN Documento de proyecto
 - [x] CRIN Guía de desarrollo
-- [ ] QR para aulas
 
 ## CEMIC
 - [ ] Curso R
