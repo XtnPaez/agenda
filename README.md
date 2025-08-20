@@ -11,6 +11,7 @@
 - [x] Permisos para Pablo Gutierrez
 - [x] Montar Geoserver local
 - [x] Conectar Geoserver con QGis
+- [ ] Visualizador de EFPI para Male
 - [ ] Revisar, ordenar y estandarizar las capas
 - [ ] Crear el catálogo de capas del SIEMPRO
 - [ ] visualizacion_geo (Mapa SIS)
