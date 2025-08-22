@@ -1,5 +1,13 @@
 # Agenda de tareas
 
+## INSTALAR EN EL TELEFONO
+- [ ] BNA, Ciudad, Patagonia, BBVA
+- [ ] Union Personal
+- [ ] On Axion, YPF, Strix
+- [ ] Github
+- [ ] AirBNB
+- [ ] Memoria?
+
 ## SIEMPRO
 - [x] Actualizar mapa Gran Chaco
 - [x] Mapa de ruralidad
