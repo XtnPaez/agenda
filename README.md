@@ -21,6 +21,7 @@
 - [ ] Generar Plantillas QGIS
 - [ ] carga_monitoreo (Proyecto No Oficial)
 - [ ] MaC
+- [ ] En el marco del Programa Crecer Cuidados (Ley 27.709) se llevará a cabo la actividad de capacitación obligatoria de la Ley Lucio. Cursada: del miércoles 3 de septiembre al viernes 3 de octubre*
 
 ## UEICEE
 - [ ] EDDY
